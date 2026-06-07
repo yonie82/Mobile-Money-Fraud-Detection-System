@@ -5,7 +5,7 @@ based on the transaction amount, transation time and transation frequency.
 
 What I learnt in this project:
 
-Python – Main programming language
+Python – Programming language
 Pandas – Data manipulation and analysis
 Scikit-learn (sklearn) – Machine learning library
 Isolation Forest – Anomaly detection algorithm
